@@ -1,0 +1,1 @@
+export const APIURL = "bored-api.appbrewery.com/random"; 
